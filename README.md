@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Aide pour Atoraxiom</b>
+  <b>Aide pour Atoraxxion</b>
 </h1>
 
 ## Donjon Sycrakea
