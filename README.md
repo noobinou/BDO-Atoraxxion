@@ -4,8 +4,7 @@
 
 ## Donjon Sycrakea
 
-[CountColor](https://htmlpreview.github.io/?https://github.com/noobinou/BDO-Atoraxion/blob/main/CountColor.html
-) permet de compter les couleurs lors de la phase couleur de sycrakea.
+[CountColor](https://noobinou.github.io/BDO-Atoraxion/CountColor.html) permet de compter les couleurs lors de la phase couleur de sycrakea.
 
 ![UI](screens/UI.png)
 
